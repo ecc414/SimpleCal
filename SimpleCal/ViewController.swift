@@ -1501,7 +1501,7 @@ extension ViewController {
         
         historyBtn.snp.remakeConstraints{ make in
             make.top.equalTo(view.safeAreaLayoutGuide)
-            make.trailing.equalTo(clearBtn.snp.centerX)
+            make.centerX.equalTo(clearBtn.snp.centerX)
             make.height.equalTo(height/2)
             make.width.equalTo(historyBtn.snp.height)
             make.bottom.equalTo(expressionLabel.snp.top).offset(-gap)
