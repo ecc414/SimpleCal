@@ -1,0 +1,20 @@
+/* 
+  InfoPlist.strings
+  SimpleCal
+
+  Created by 엄철찬 on 2022/03/30.
+  
+*/
+"CFBundleDisplayName" = "This is Calculator";
+"Close" = "Close";
+"History" = "History";
+"Copied!" = "Copied!";
+"Invalid expression" = "Invalid expression";
+"Too big to calculate" = "Too big to calculate";
+"Are you sure to delete all history?" = "Are you sure to delete all history?";
+"Alert!" = "Alert!";
+"Yes" = "Yes";
+"No" = "No";
+"Done" = "Done";
+"Make a note" = "Make a note";
+"Too many inputs" = "Too many inputs";

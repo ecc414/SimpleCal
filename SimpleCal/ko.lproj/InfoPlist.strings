@@ -1,0 +1,20 @@
+/* 
+  InfoPlist.strings
+  SimpleCal
+
+  Created by 엄철찬 on 2022/03/30.
+  
+*/
+"CFBundleDisplayName" = "계산기예요";
+"Close" = "닫기";
+"History" = "계산기록";
+"Copied!" = "복사됨!";
+"Invalid expression" = "유효하지 않은 수식입니다";
+"Too big to calculate" = "너무 큰 수식입니다";
+"Are you sure to delete all history?" = "모두 삭제하시겠습니까?";
+"Alert!" = "알림!";
+"Yes" = "예";
+"No" = "아니오";
+"Done" = "완료";
+"Make a note" = "메모를 남겨주세요";
+"Too many inputs" = "입력이 너무 많습니다";
